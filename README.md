@@ -1,3 +1,6 @@
+![Credit card Project ](https://github.com/Nish-gopi/Data-Analysis-of-Credit-Card-Transactions-in-India/assets/92908009/b1303927-c6de-43e5-a292-5639ae25735e)
+
+
 # Data-Analysis-of-Credit-Card-Transactions-in-India-Advanced-SQL
 
 ## About the Dataset:
